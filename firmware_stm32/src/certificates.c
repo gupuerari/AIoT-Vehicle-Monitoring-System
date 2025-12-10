@@ -1,0 +1,20 @@
+#include "certificates.h"
+
+const char AWS_ROOT_CA_PEM[] = \
+"-----BEGIN CERTIFICATE-----\n"
+"COLE_O_ROOT_CA_AMAZON_AQUI\n"
+"-----END CERTIFICATE-----\n";
+
+
+// ----- COLE O CONTEÚDO DO SEU CERTIFICADO DE DISPOSITIVO AQUI -----
+const char AWS_DEVICE_CERT_PEM[] = \
+"-----BEGIN CERTIFICATE-----\n"
+"COLE_SEU_CERTIFICADO_DO_DISPOSITIVO_AQUI\n"
+"-----END CERTIFICATE-----\n";s
+
+
+// ----- COLE A SUA CHAVE PRIVADA AQUI -----
+const char AWS_PRIVATE_KEY_PEM[] = \
+"-----BEGIN RSA PRIVATE KEY-----\n"
+"COLE_SUA_CHAVE_PRIVADA_AQUI\n"
+"-----END RSA PRIVATE KEY-----\n";

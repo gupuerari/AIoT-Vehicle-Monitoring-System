@@ -1,6 +1,4 @@
-Here is the English version of the README.md, fully formatted and technical, ready to be copied into your project.
 
-Markdown
 
 # AIoT Vehicle Monitoring System (Driver Behavior Profiling)
 
